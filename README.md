@@ -1,0 +1,1 @@
+Personal Neovim (with NvChad) configuration
